@@ -166,6 +166,10 @@ p {
   margin-top: 0;
   margin-bottom: 20px;
 }
+.main-wrapper .subTitle {
+  font-size: 14px;
+  text-align: center;
+}
 .main-wrapper .section-title .fa {
   width: 30px;
   height: 30px;
@@ -256,6 +260,7 @@ p {
 .footer .fa-heart {
   color: #fb866a;
 }
+
 /* Extra small devices (phones, less than 768px) */
 @media (max-width: 767px) {
   .sidebar-wrapper {
