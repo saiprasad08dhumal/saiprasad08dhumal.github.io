@@ -19,7 +19,7 @@ jQuery(document).ready(function($) {
         });
 
     });
-   
-    
+   var d = new Date();
+$(".declaration-date").append(d.getDate()+"/"+d.getMonth()+"/"+d.getFullYear());	    
 
 });
